@@ -10,10 +10,9 @@
 
 .container h1 {
   margin: 0;
-    font-size: clamp(16px, 5vw, 42px);
+  font-size: 42px;
   color: #333;
   word-break: keep-all !important;
-  white-space: nowrap;
 }
 
 .label {
